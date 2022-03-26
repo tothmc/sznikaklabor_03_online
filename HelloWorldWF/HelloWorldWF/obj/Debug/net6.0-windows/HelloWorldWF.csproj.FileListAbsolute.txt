@@ -1,0 +1,17 @@
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.exe
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.deps.json
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.runtimeconfig.json
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.dll
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\bin\Debug\net6.0-windows\HelloWorldWF.pdb
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.AssemblyReference.cache
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.GeneratedMSBuildEditorConfig.editorconfig
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.AssemblyInfoInputs.cache
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.AssemblyInfo.cs
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.CoreCompileInputs.cache
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.dll
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\refint\HelloWorldWF.dll
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.pdb
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.genruntimeconfig.cache
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\ref\HelloWorldWF.dll
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.csproj.GenerateResource.cache
+D:\sznikaklabor_03_online\HelloWorldWF\HelloWorldWF\obj\Debug\net6.0-windows\HelloWorldWF.MainForm.resources
